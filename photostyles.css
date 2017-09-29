@@ -25,7 +25,7 @@ body{
 .linavlist{
     float: left;
 	font-family: Arial Header, Helvetica, sans-serif;
-	margin: 0 54;
+	margin: 0 52;
 }
 .divnav .linavlist a{
     display: block;
