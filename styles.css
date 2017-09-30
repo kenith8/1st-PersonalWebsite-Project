@@ -1,6 +1,7 @@
 body{
 	padding: 0;
 	margin: 0;
+	position: relative;
 }
 .divhead{
 	background-color: 212122;
@@ -41,10 +42,17 @@ body{
     background-color: 505351;
 }
 .divme{
-	background-image: url("images/me.png");
+	background: linear-gradient(
+                    rgba(20,20,20, .5), 
+                    rgba(20,20,20, .5)),
+					url("images/me.png");
 	background-size: 100% 100%;
-	height: 430px;
+	height: 448px;
 	width: 100%;
     background-repeat: no-repeat;
 	margin-top: -16px;
+	position: relative;
+}
+.divme p{
+	align: center;
 }
