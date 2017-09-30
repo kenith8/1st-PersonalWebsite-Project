@@ -8,6 +8,7 @@ body{
 	height: 160px;
 }
 #sfimg{
+	padding: 4 0;
 	width: 150px; height: 150px;
 }
 #name{
