@@ -58,11 +58,18 @@ body{
 	color: white;
 	font-family: Arial Header, Helvetica, sans-serif;
 }
+#img_cdays{
+	text-align: center;
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	margin-top: 50;
+}
 .divpbg1 .gallery {
     float: left;
     width: 180px;
 	padding: 13;
 	margin: 10;
+	margin-top: -100;
 }
 .divpbg1 .gallery img {
     width: 200px;
