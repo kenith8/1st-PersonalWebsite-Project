@@ -1,0 +1,44 @@
+body{
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+.divhead{
+	background-color: 212122;
+	height: 160px;
+}
+#sfimg{
+	padding: 4 0;
+	width: 150px; height: 150px;
+}
+#name{
+	text-align: center;
+	color: white;
+	font-size: 80;
+	font-family: Arial Header, Helvetica, sans-serif;
+}
+.divnav .ulnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.linavlist{
+    float: left;
+	font-family: Arial Header, Helvetica, sans-serif;
+	margin: 0 52;
+}
+.divnav .linavlist a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 24px;
+    text-decoration: none;
+}
+.linavlist a:hover:not(#active){
+    background-color: #111;
+}
+#active{
+    background-color: 505351;
+}
