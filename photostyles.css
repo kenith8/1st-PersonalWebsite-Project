@@ -43,6 +43,8 @@ body{
 }
 .divpbg{
 	background-image: url("images/photobg.png");
-	height: 448px;
-	width: 100%;	
+	height: 100%;
+	width: 100%;
+	position: relative;
+	background-repeat: no-repeat;
 }
