@@ -42,7 +42,7 @@ body{
 #active {
     background-color: 505351;
 }
-.divpbg1{
+.divpbg{
 	background: linear-gradient(
                     rgba(20,20,20, .5), 
                     rgba(20,20,20, .5)),
@@ -53,25 +53,25 @@ body{
 	position: relative;
 	background-repeat: no-repeat;
 }
-#img_ins{
+.divpbg #img_ins{
 	margin-top: 0;
 	color: white;
 	font-family: Arial Header, Helvetica, sans-serif;
 }
-#img_cdays{
+.divcdays #img_cdays{
 	text-align: center;
 	color: white;
 	font-family: Arial Header, Helvetica, sans-serif;
 	margin-top: 50;
 }
-.divpbg1 .gallery {
+.divpbg .gallery1{
     float: left;
     width: 180px;
 	padding: 13;
 	margin: 10;
 	margin-top: -100;
 }
-.divpbg1 .gallery img {
+.divpbg .gallery1 img{
     width: 200px;
     height: 150px;
 	margin-top: 100;
