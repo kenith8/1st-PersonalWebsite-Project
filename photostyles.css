@@ -44,6 +44,5 @@ body{
 .divpbg{
 	background-image: url("images/photobg.png");
 	height: 448px;
-	width: 100%;
-	margin-right: 17;	
+	width: 100%;	
 }
