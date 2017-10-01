@@ -39,7 +39,7 @@ body{
 .linavlist a:hover:not(#active){
     background-color: #111;
 }
-#active {
+#active{
     background-color: 505351;
 }
 .divme{
