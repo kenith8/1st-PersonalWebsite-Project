@@ -64,10 +64,11 @@ body{
 	text-align: middle;
 	color: white;
 	font-family: Arial Header, Helvetica, sans-serif;
-	padding: 15 0;
+	line-height: 3;
 }
 .divcschool h3 a{
 	color: white;
+	line-height: 18;
 }
 .divhsschool{
 	background: linear-gradient(
@@ -87,4 +88,21 @@ body{
 	height: 215px;
 	margin: 120 38;
 }
-.divhsschool 
+.divhsschool .hsdetail li{
+	text-align: middle;
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	line-height: 3;
+}
+.diveschool{
+	background: linear-gradient(
+                    rgba(20,20,20, .5), 
+                    rgba(20,20,20, .5)),
+					url("images/dahes.jpg");
+	background-size: 100% 100%;
+	height: 448px;
+	width: 100%;
+	position: relative;
+	background-repeat: no-repeat;
+	margin-top: -16;
+}
