@@ -48,8 +48,33 @@ body{
                     rgba(20,20,20, .5)),
 					url("images/usep.png");
 	background-size: 100% 100%;
-	height: 100%;
+	height: 448px;
 	width: 100%;
 	position: relative;
 	background-repeat: no-repeat;
+	margin-top: -16;
+}
+.divcschool img{
+	float: left;
+	width: 250px;
+	height: 250px;
+	margin: 80 16;
+}
+.divcschool p{
+	text-align: middle;
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	padding: 80;
+}
+.divhsschool{
+	background: linear-gradient(
+                    rgba(20,20,20, .5), 
+                    rgba(20,20,20, .5)),
+					url("images/fbnhsbldg.jpg");
+	background-size: 100% 100%;
+	height: 448px;
+	width: 100%;
+	position: relative;
+	background-repeat: no-repeat;
+	margin-top: -16;
 }
