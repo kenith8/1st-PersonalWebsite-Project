@@ -76,3 +76,17 @@ body{
 	font-family: Arial Header, Helvetica, sans-serif;
 	margin-left: 30;
 }
+.divconbg .border3 img{
+	height: 50px;
+	width: 50px;
+	margin-left: 20;
+}
+.divconbg .border3 p{
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	margin-left: 30;
+}
+.divconbg .border3 p a{
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+}
