@@ -76,9 +76,7 @@ body{
     height: 150px;
 	margin-top: 100;
 	margin-left: 50;
-	border: 1px solid black;
-    outline-style: solid;
-    outline-color: blue;
+	border: 1px solid blue;
 }
 .divhsdays #img_hsdays{
 	text-align: center;
@@ -98,7 +96,5 @@ body{
     height: 150px;
 	margin-top: 100;
 	margin-left: 50;
-	border: 1px solid black;
-    outline-style: solid;
-    outline-color: blue;
+	border: 1px solid blue;
 }

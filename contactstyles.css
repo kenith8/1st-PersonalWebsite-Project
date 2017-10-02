@@ -53,3 +53,17 @@ body{
 	position: relative;
 	background-repeat: no-repeat;
 }
+.divconbg h4{
+	color: white;
+	margin-top: 0;
+}
+.divconbg .border1 img{
+	height: 50px;
+	width: 50px;
+	margin-left: 20;
+}
+.divconbg .border1 p{
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	margin-left: 30;
+}

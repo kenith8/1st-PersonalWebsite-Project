@@ -53,6 +53,7 @@ body{
     background-repeat: no-repeat;
 	margin-top: -16px;
 	position: relative;
+	border-bottom: 1px solid blue;
 }
 .divme p{
 	text-align: middle;
@@ -76,6 +77,7 @@ body{
     background-repeat: no-repeat;
 	margin-top: -16px;
 	position: relative;
+	border-bottom: 1px solid blue;
 }
 .divboxing p{
 	text-align: middle;
@@ -99,6 +101,7 @@ body{
     background-repeat: no-repeat;
 	margin-top: -16px;
 	position: relative;
+	border-bottom: 1px solid blue;
 }
 .divgame p{
 	text-align: middle;
