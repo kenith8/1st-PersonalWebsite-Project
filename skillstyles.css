@@ -63,3 +63,12 @@ body{
 	margin: 0 278;
 	padding: 60 0;
 }
+.divl{
+	margin: 151 200;
+}
+.divskills .divl .slist li{
+	text-align: middle;
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	line-height: 3;
+}
