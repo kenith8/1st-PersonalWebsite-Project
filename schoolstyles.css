@@ -106,3 +106,9 @@ body{
 	background-repeat: no-repeat;
 	margin-top: -16;
 }
+.diveschool .edetail li{
+	text-align: middle;
+	color: white;
+	font-family: Arial Header, Helvetica, sans-serif;
+	line-height: 3;
+}
