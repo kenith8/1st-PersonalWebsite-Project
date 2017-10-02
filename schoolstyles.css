@@ -60,11 +60,12 @@ body{
 	height: 250px;
 	margin: 80 16;
 }
-.divcschool p{
+.divcschool .cdetail li{
 	text-align: middle;
 	color: white;
 	font-family: Arial Header, Helvetica, sans-serif;
-	padding: 80;
+	padding: 15 0;
+	
 }
 .divhsschool{
 	background: linear-gradient(
